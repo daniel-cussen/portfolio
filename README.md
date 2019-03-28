@@ -1,5 +1,5 @@
 # portfolio
 
-A collection of the algorithms I've independently developed.
+A collection of some of the best algorithms I've independently developed.
 
-If you're interested in my work, you can reach me at dcussen@alumni.stanford.edu
+Some are open source, but some are not.  If you're interested in my work, you can reach me at dcussen@alumni.stanford.edu
