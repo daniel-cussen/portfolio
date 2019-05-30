@@ -1,4 +1,4 @@
-# portfolio
+# Algorithm Portfolio
 
 A collection of some of the best algorithms I've independently developed.
 
